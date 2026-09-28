@@ -64,6 +64,6 @@ Faça o clone deste repositório ou baixe o arquivo da planilha diretamente.
 **🔗 Acesso ao Projeto:** [Clique aqui para abrir a Planilha Antonucci Invest no Excel Web](**🔗 Acesso ao Projeto:** **🔗 Acesso ao Projeto:** [Clique aqui para abrir a Planilha Antonucci Invest no Excel Web](https://1drv.ms/x/c/2a389b1efb623912/IQATaoTZXGaUQaaXbjJJ8SSgAVKy1GGKffevGpH-8R-KPXM?e=Vc0TLD)
 Abra o arquivo em seu software de planilhas.
 
-Altere os valores nas células de Salário, Quanto investir por mês? e Taxa de rendimento mensal para gerar suas próprias simulações.
+Altere os valores nas células de Salário, Quanto investir por mês e Taxa de rendimento mensal para gerar suas próprias simulações.
 
 Autor: Marcio Antonucci
